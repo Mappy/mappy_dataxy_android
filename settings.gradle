@@ -1,0 +1,3 @@
+rootProject.name = "Data XY"
+include ':sample'
+
