@@ -44,7 +44,6 @@ allprojects {
         }
     }
 
-    apply from: "$rootDir/script/detekt/detekt.gradle"
 }
 
 /// task use for MULTI module projects
