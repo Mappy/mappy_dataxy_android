@@ -177,5 +177,5 @@ The parameter configuration is an object
 
 
 ### Contact
-* **Technical support:** support.sdk.android@adhslx.com
-* **Commercial support:** vosdonnees@adhslx.com
+* **Technical support:** dt.mobile.android@mappy.com
+* **Commercial support:** --
