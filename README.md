@@ -39,7 +39,7 @@ In your gradle file dependencies section add :
 
 ```
   dependencies {
-      implementation 'com.mappy:data-xy:+'
+      implementation "com.mappy:mappy-dataxy:7.0.5"
   }
 ```
 
