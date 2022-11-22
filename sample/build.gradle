@@ -10,7 +10,7 @@ android {
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 1
-        versionName "7.0.4"
+        versionName "7.0.5"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         multiDexEnabled true
@@ -43,7 +43,7 @@ android {
 
 dependencies {
     // mappy
-    implementation "com.mappy:mappy-dataxy:7.0.4-aosp"
+    implementation "com.mappy:mappy-dataxy:7.0.5"
 
     // Android
     implementation 'androidx.multidex:multidex:2.0.1'
