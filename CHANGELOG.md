@@ -9,5 +9,5 @@
 ## Version 7.0.3
 - Update dependencies
 
-## Version 7.0.5
-- Update compileSdkVersion 31
+## Version 7.0.4
+- Migrate compileSdkVersion 31
