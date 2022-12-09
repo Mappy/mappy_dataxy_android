@@ -22,7 +22,8 @@
             android:name="com.mappy.client_id"
             android:value="mappy_dataxy_sample" />
 
-        <activity android:name="com.dataxy.sample.DataXYSampleActivity">
+        <activity android:name="com.dataxy.sample.DataXYSampleActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

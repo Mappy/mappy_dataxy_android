@@ -39,7 +39,7 @@ In your gradle file dependencies section add :
 
 ```
   dependencies {
-      implementation "com.mappy:mappy-dataxy:7.0.5"
+      implementation 'com.mappy:data-xy:+'
   }
 ```
 
@@ -177,5 +177,5 @@ The parameter configuration is an object
 
 
 ### Contact
-* **Technical support:** dt.mobile.android@mappy.com
-* **Commercial support:** --
+* **Technical support:** support.sdk.android@adhslx.com
+* **Commercial support:** vosdonnees@adhslx.com
