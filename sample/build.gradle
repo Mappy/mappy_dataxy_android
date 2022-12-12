@@ -43,7 +43,7 @@ android {
 
 dependencies {
     // mappy
-    implementation "com.mappy:mappy-dataxy:7.1.0"
+    implementation "com.mappy:mappy-dataxy:7.1.1"
 
     // Android
     implementation 'androidx.multidex:multidex:2.0.1'
