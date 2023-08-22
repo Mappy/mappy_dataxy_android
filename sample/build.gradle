@@ -5,6 +5,8 @@ android {
     compileSdkVersion 33
     buildToolsVersion '30.0.3'
 
+    namespace 'com.dataxy.sample'
+
     defaultConfig {
         applicationId "com.mappy.dataxy.sample"
         minSdkVersion 21
@@ -17,8 +19,8 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
 
     flavorDimensions "default"
@@ -43,7 +45,7 @@ android {
 
 dependencies {
     // mappy
-    implementation "com.mappy:mappy-dataxy:7.1.3"
+    implementation "com.mappy:mappy-dataxy:7.2.1"
 
     // Android
     implementation 'androidx.multidex:multidex:2.0.1'
